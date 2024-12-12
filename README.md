@@ -1,3 +1,3 @@
 # git-lab1
 Huolas
-Adios
+Editao sa quedao
